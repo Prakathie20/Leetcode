@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prakathie20/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Prakathie20/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakathie20/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prakathie20/Leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Prakathie20/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Prakathie20/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prakathie20/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakathie20/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prakathie20/Leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Prakathie20/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakathie20/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Prakathie20/Leetcode/tree/master/0455-assign-cookies) |
 ## String
 |  |
@@ -40,8 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Prakathie20/Leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prakathie20/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Prakathie20/Leetcode/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Prakathie20/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
